@@ -1,7 +1,7 @@
 {
   "name": "webpack-scss-dev-server",
   "version": "1.0.0",
-  "description": "A simple webpack configuration to enable fast prototyping of high quality user interface components.",
+  "description": "A simple webpack configuration to enable fast prototyping of creative (coding) sketches.",
   "keywords": [
     "webpack",
     "scss",
