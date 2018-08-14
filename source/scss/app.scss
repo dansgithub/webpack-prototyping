@@ -1,21 +1,9 @@
-:root {
-    --font: monospace;
-    --font-size: 16px;
-    --font-color: #000;
-    --line-height: 1.5;
-    --gutter: 20px; 
-}
-
 * { 
     box-sizing: border-box;
 }
 
-html {
-    font: var(--font-size) / var(--line-height) var(--font);    
-}
-
-.message {
-    background-image: url('/assets/tree.svg');
-    background-repeat: no-repeat;
-    padding-left: calc(var(--gutter) * 2);
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
 }
