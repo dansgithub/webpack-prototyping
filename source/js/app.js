@@ -5,7 +5,6 @@ let s = (sk) => {
         sk.createCanvas(window.innerWidth, window.innerHeight);
         sk.background(40);
         sk.stroke(200,100,0);
-        
     }
 }
 
