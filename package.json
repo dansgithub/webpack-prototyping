@@ -29,7 +29,7 @@
     "style-loader": "^0.20.3",
     "webpack": "^4.16.3",
     "webpack-cli": "^2.0.12",
-    "webpack-dev-server": "^3.1.5"
+    "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
     "p5": "^0.7.1"
